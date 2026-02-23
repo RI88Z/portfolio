@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   title: 'Aleksander Paliwoda | Portfolio',
   description:
     'Full Stack Developer & AI Specialist. Turning complex data into elegant experiences.',
+  icons: {
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
+  },
 }
 
 export const viewport: Viewport = {
